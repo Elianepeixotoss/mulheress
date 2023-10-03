@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    font-size: large;
+}
+#imagem{
+    width: 400px;
+    padding: 0px 50px;
+
+}
+h1{
+    color: red;
+}
+#foto{
+    width: 350px;
+    padding: 0px 30px;
+    
+}
